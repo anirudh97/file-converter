@@ -1,0 +1,202 @@
+[
+ {
+  "age": 32,
+  "department": "Engineering",
+  "email": "john.smith@example.com",
+  "id": 1,
+  "is_active": true,
+  "join_date": "2020-06-15",
+  "name": "John Smith",
+  "salary": 85000
+ },
+ {
+  "age": 28,
+  "department": "Marketing",
+  "email": "mary.j@example.com",
+  "id": 2,
+  "is_active": true,
+  "join_date": "2021-03-22",
+  "name": "Mary Johnson",
+  "salary": 72000
+ },
+ {
+  "age": 41,
+  "department": "Finance",
+  "email": "rwilliams@example.com",
+  "id": 3,
+  "is_active": true,
+  "join_date": "2018-11-05",
+  "name": "Robert Williams",
+  "salary": 92500
+ },
+ {
+  "age": 36,
+  "department": "Human Resources",
+  "email": "sbrown@example.com",
+  "id": 4,
+  "is_active": true,
+  "join_date": "2019-08-10",
+  "name": "Susan Brown",
+  "salary": 68000
+ },
+ {
+  "age": 45,
+  "department": "Engineering",
+  "email": "michael.d@example.com",
+  "id": 5,
+  "is_active": true,
+  "join_date": "2015-04-30",
+  "name": "Michael Davis",
+  "salary": 105000
+ },
+ {
+  "age": 29,
+  "department": "Sales",
+  "email": "pmiller@example.com",
+  "id": 6,
+  "is_active": true,
+  "join_date": "2021-09-14",
+  "name": "Patricia Miller",
+  "salary": 78500
+ },
+ {
+  "age": 38,
+  "department": "Engineering",
+  "email": "jwilson@example.com",
+  "id": 7,
+  "is_active": true,
+  "join_date": "2017-07-19",
+  "name": "James Wilson",
+  "salary": 88000
+ },
+ {
+  "age": 33,
+  "department": "Marketing",
+  "email": "jmoore@example.com",
+  "id": 8,
+  "is_active": true,
+  "join_date": "2020-01-08",
+  "name": "Jennifer Moore",
+  "salary": 75000
+ },
+ {
+  "age": 44,
+  "department": "Finance",
+  "email": "dtaylor@example.com",
+  "id": 9,
+  "is_active": true,
+  "join_date": "2016-10-25",
+  "name": "David Taylor",
+  "salary": 95000
+ },
+ {
+  "age": 31,
+  "department": "Human Resources",
+  "email": "linda.a@example.com",
+  "id": 10,
+  "is_active": false,
+  "join_date": "2019-05-17",
+  "name": "Linda Anderson",
+  "salary": 67500
+ },
+ {
+  "age": 39,
+  "department": "Engineering",
+  "email": "wthomas@example.com",
+  "id": 11,
+  "is_active": true,
+  "join_date": "2018-03-12",
+  "name": "William Thomas",
+  "salary": 91000
+ },
+ {
+  "age": 27,
+  "department": "Sales",
+  "email": "ejackson@example.com",
+  "id": 12,
+  "is_active": true,
+  "join_date": "2022-02-08",
+  "name": "Elizabeth Jackson",
+  "salary": 71000
+ },
+ {
+  "age": 42,
+  "department": "Marketing",
+  "email": "rwhite@example.com",
+  "id": 13,
+  "is_active": true,
+  "join_date": "2017-12-01",
+  "name": "Richard White",
+  "salary": 82500
+ },
+ {
+  "age": 35,
+  "department": "Finance",
+  "email": "bharris@example.com",
+  "id": 14,
+  "is_active": true,
+  "join_date": "2019-09-23",
+  "name": "Barbara Harris",
+  "salary": 89000
+ },
+ {
+  "age": 48,
+  "department": "Engineering",
+  "email": "cmartin@example.com",
+  "id": 15,
+  "is_active": true,
+  "join_date": "2014-08-15",
+  "name": "Charles Martin",
+  "salary": 110000
+ },
+ {
+  "age": 30,
+  "department": "Human Resources",
+  "email": "mthompson@example.com",
+  "id": 16,
+  "is_active": true,
+  "join_date": "2020-11-30",
+  "name": "Margaret Thompson",
+  "salary": 69500
+ },
+ {
+  "age": 37,
+  "department": "Sales",
+  "email": "jgarcia@example.com",
+  "id": 17,
+  "is_active": false,
+  "join_date": "2018-06-05",
+  "name": "Joseph Garcia",
+  "salary": 80000
+ },
+ {
+  "age": 34,
+  "department": "Marketing",
+  "email": "nmartinez@example.com",
+  "id": 18,
+  "is_active": true,
+  "join_date": "2019-03-18",
+  "name": "Nancy Martinez",
+  "salary": 76500
+ },
+ {
+  "age": 43,
+  "department": "Finance",
+  "email": "trobinson@example.com",
+  "id": 19,
+  "is_active": true,
+  "join_date": "2016-05-27",
+  "name": "Thomas Robinson",
+  "salary": 94000
+ },
+ {
+  "age": 26,
+  "department": "Engineering",
+  "email": "lclark@example.com",
+  "id": 20,
+  "is_active": true,
+  "join_date": "2022-04-11",
+  "name": "Lisa Clark",
+  "salary": 83000
+ }
+]
