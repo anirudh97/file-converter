@@ -1,0 +1,21 @@
+id,name,email,age,department,salary,join_date,is_active
+1,John Smith,john.smith@example.com,32,Engineering,85000,2020-06-15,true
+2,Mary Johnson,mary.j@example.com,28,Marketing,72000,2021-03-22,true
+3,Robert Williams,rwilliams@example.com,41,Finance,92500,2018-11-05,true
+4,Susan Brown,sbrown@example.com,36,Human Resources,68000,2019-08-10,true
+5,Michael Davis,michael.d@example.com,45,Engineering,105000,2015-04-30,true
+6,Patricia Miller,pmiller@example.com,29,Sales,78500,2021-09-14,true
+7,James Wilson,jwilson@example.com,38,Engineering,88000,2017-07-19,true
+8,Jennifer Moore,jmoore@example.com,33,Marketing,75000,2020-01-08,true
+9,David Taylor,dtaylor@example.com,44,Finance,95000,2016-10-25,true
+10,Linda Anderson,linda.a@example.com,31,Human Resources,67500,2019-05-17,false
+11,William Thomas,wthomas@example.com,39,Engineering,91000,2018-03-12,true
+12,Elizabeth Jackson,ejackson@example.com,27,Sales,71000,2022-02-08,true
+13,Richard White,rwhite@example.com,42,Marketing,82500,2017-12-01,true
+14,Barbara Harris,bharris@example.com,35,Finance,89000,2019-09-23,true
+15,Charles Martin,cmartin@example.com,48,Engineering,110000,2014-08-15,true
+16,Margaret Thompson,mthompson@example.com,30,Human Resources,69500,2020-11-30,true
+17,Joseph Garcia,jgarcia@example.com,37,Sales,80000,2018-06-05,false
+18,Nancy Martinez,nmartinez@example.com,34,Marketing,76500,2019-03-18,true
+19,Thomas Robinson,trobinson@example.com,43,Finance,94000,2016-05-27,true
+20,Lisa Clark,lclark@example.com,26,Engineering,83000,2022-04-11,true
